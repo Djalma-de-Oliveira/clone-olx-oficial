@@ -6,4 +6,4 @@
 
 Treinamento efetuado na disciplina _Desenvolvimento WEB II_ do curso de _Analise e Desenvolvimento de Sistemas_ do [IFSP](https://ifspcaraguatatuba.edu.br/)
 
-_autor: Mikael Berganzini_
+_autor: Djalma de Oliveira
